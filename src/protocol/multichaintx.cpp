@@ -3,6 +3,14 @@
 // Original code was distributed under the MIT software license.
 // Copyright (c) 2014-2017 Coin Sciences Ltd
 // MultiChain code distributed under the GPLv3 license, see COPYING file.
+// some comments by Louis Göttertz
+
+/*
+ * Important Methods:
+ *
+ * 1) mc_GenesisAdmin: uint160 - 
+ *
+ */
 
 #include "core/main.h"
 #include "utils/util.h"
